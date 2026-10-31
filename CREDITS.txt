@@ -1,0 +1,12 @@
+Product photographs: Unsplash (illustrative).
+https://unsplash.com/photos/photo-1447933601403-0c6688de566e
+Image source IDs (images.unsplash.com):
+hero: photo-1447933601403-0c6688de566e
+latte: photo-1541167760496-1628856ab772
+espresso: photo-1510707577719-ae7c14805e3a
+iced: photo-1517701604599-bb29b565090c
+croissant: photo-1555507036-ab1f4038808a
+cake: photo-1578985545062-69928b1d9587
+matcha: photo-1515823064-d6e0c04616a7
+QR library: qrcode-generator 1.4.4 by Kazuhiko Arase, MIT license (notice included in assets/qrcode.js).
+https://github.com/kazuhikoarase/qrcode-generator
